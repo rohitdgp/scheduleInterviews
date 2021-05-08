@@ -1,4 +1,4 @@
-# ScheduleInterviews
+# ScheduleInterviews [![Build](https://www.travis-ci.com/rohitdgp/scheduleInterviews.svg?branch=main)](https://www.travis-ci.com/rohitdgp/scheduleInterviews)
 
 A small snippet to replicate the online Slot booking system (Mock interview for Students). Interviewers and students can register themselves, Interviewers can enter their availability slots according to which studenst can book their respective suitable slots.
 
